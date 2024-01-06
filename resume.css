@@ -16,9 +16,9 @@ body{
 .blue-container{
     background-color: #154c79;
     color: white;
-    width: 250px;
+    width: 800px;
     height: 100vh;
-    margin-right: 200px;
+    margin-right: 100px;
     padding: 20px;
     box-sizing: border-box;
     flex-direction: column;
@@ -26,9 +26,10 @@ body{
     justify-content: center;
 }
 header{
-    text-align: right;
+    text-align: left;
     margin-bottom: 20px;
     margin-top: 150px;
+    white-space: nowrap;
 }
 h1{
     color: #154c79;
@@ -36,4 +37,13 @@ h1{
 }
 h2{
     color: #76b5c5
+}
+.picture {
+    width: 160px;
+    height: 160px;
+    overflow: hidden;
+    margin-bottom: 20px;
+    margin-top: 130px;
+    margin-left: 40px;
+    
 }
