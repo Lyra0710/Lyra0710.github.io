@@ -17,7 +17,7 @@ body{
     background-color: #154c79;
     color: white;
     width: 800px;
-    height: 100vh;
+    height: 100vh auto;
     margin-right: 100px;
     padding: 20px;
     box-sizing: border-box;
