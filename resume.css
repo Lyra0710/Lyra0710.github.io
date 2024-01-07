@@ -40,12 +40,22 @@ h1{
 
 }
 h2{
-    color: #76b5c5;
+    color: #477dbb;
+    font-size: large;
 }
 h3{
     color: white;
     margin-bottom: 30px;
     margin-left: 70px;
+}
+h4{
+    color: #0b41a5;
+    font-size: large; 
+}
+p{
+    color:grey;
+    margin-right: 250px;
+
 }
 .text-blue{
     margin-left: 10px;
@@ -73,10 +83,15 @@ h3{
 
 .grey-line {
     border: 1px solid rgb(214, 209, 209);
-    width: 50%;
+    width: 30%;
     /* margin: 20px 0;  */
 }
 
 .white{
     padding-right: 500px;
+}
+.dotted-line{
+    border-bottom: 1px dotted #adb1b6;
+    width: 30%;
+    margin: 10px 0;
 }
