@@ -38,12 +38,24 @@ h1{
 h2{
     color: #76b5c5
 }
+h3{
+    color: white;
+    margin-bottom: 10px;
+    margin-left: 70px;
+}
+.text-blue{
+    margin-left: 70px;
+    margin-bottom: 10px;
+}
 .picture {
     width: 160px;
     height: 160px;
     overflow: hidden;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
     margin-top: 130px;
-    margin-left: 40px;
-    
+    margin-left: 70px;
+    margin-right: 20px;
+}
+.space{
+    margin-right: 5px;
 }
