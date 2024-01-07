@@ -40,11 +40,11 @@ h2{
 }
 h3{
     color: white;
-    margin-bottom: 10px;
+    margin-bottom: 30px;
     margin-left: 70px;
 }
 .text-blue{
-    margin-left: 70px;
+    margin-left: 10px;
     margin-bottom: 10px;
 }
 .picture {
@@ -57,5 +57,11 @@ h3{
     margin-right: 20px;
 }
 .space{
-    margin-right: 5px;
+    margin-left: 60px;
+    padding-right: 20px;
+}
+.blue-item {
+    display: flex;
+    align-items: left;
+    padding-right: 20px;
 }
