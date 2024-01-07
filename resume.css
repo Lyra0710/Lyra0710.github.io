@@ -12,6 +12,7 @@ body{
     background-color: white;
     /* padding: 20px; */
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);;
+    height:100vh auto;
 }
 .blue-container{
     background-color: #154c79;
@@ -55,7 +56,8 @@ h4{
 p{
     color:grey;
     margin-right: 250px;
-
+    font-style: sand-serif;
+    font-size:small;
 }
 .text-blue{
     margin-left: 10px;
@@ -94,4 +96,9 @@ p{
     border-bottom: 1px dotted #adb1b6;
     width: 30%;
     margin: 10px 0;
+}
+.white-li{
+    color:grey;
+    font-size: small;
+    font-style: sand-serif;
 }
